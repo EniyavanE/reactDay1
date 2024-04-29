@@ -1,0 +1,35 @@
+.priceContainer {
+    width: 250px;
+    background-color: white;
+    line-height: 0.5em;
+    margin-right: 15px;
+    border-radius: 5px;
+    max-height: 60vh;
+    padding: 10px;
+}
+
+h2,
+h5 {
+    text-align: center;
+}
+
+hr {
+    margin: 0 15px;
+}
+
+.priceContainer p {
+    text-align: start;
+    margin-left: 20px;
+}
+
+.priceContainer button {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    width: 120px;
+    border: none;
+    padding: 5px 0;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+}

@@ -1,0 +1,26 @@
+h1,
+p {
+  text-align: center;
+}
+
+.description {
+  font-size: 20px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  white-space: normal;
+  line-height: 1.5;
+}
+
+.priceCards {
+  display: flex;
+  justify-content: center;
+}
+
+.priceCard {
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  padding: 35px;
+  width: 800px;
+}
